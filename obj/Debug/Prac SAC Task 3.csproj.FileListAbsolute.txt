@@ -1,0 +1,11 @@
+C:\Users\swimn\OneDrive\Documents\Software Development\Prac SAC Task 3\Prac SAC Task 3\bin\Debug\Prac SAC Task 3.exe.config
+C:\Users\swimn\OneDrive\Documents\Software Development\Prac SAC Task 3\Prac SAC Task 3\bin\Debug\Prac SAC Task 3.exe
+C:\Users\swimn\OneDrive\Documents\Software Development\Prac SAC Task 3\Prac SAC Task 3\bin\Debug\Prac SAC Task 3.pdb
+C:\Users\swimn\OneDrive\Documents\Software Development\Prac SAC Task 3\Prac SAC Task 3\obj\Debug\Prac SAC Task 3.csproj.AssemblyReference.cache
+C:\Users\swimn\OneDrive\Documents\Software Development\Prac SAC Task 3\Prac SAC Task 3\obj\Debug\Prac SAC Task 3.csproj.SuggestedBindingRedirects.cache
+C:\Users\swimn\OneDrive\Documents\Software Development\Prac SAC Task 3\Prac SAC Task 3\obj\Debug\Prac_SAC_Task_3.Form1.resources
+C:\Users\swimn\OneDrive\Documents\Software Development\Prac SAC Task 3\Prac SAC Task 3\obj\Debug\Prac_SAC_Task_3.Properties.Resources.resources
+C:\Users\swimn\OneDrive\Documents\Software Development\Prac SAC Task 3\Prac SAC Task 3\obj\Debug\Prac SAC Task 3.csproj.GenerateResource.cache
+C:\Users\swimn\OneDrive\Documents\Software Development\Prac SAC Task 3\Prac SAC Task 3\obj\Debug\Prac SAC Task 3.csproj.CoreCompileInputs.cache
+C:\Users\swimn\OneDrive\Documents\Software Development\Prac SAC Task 3\Prac SAC Task 3\obj\Debug\Prac SAC Task 3.exe
+C:\Users\swimn\OneDrive\Documents\Software Development\Prac SAC Task 3\Prac SAC Task 3\obj\Debug\Prac SAC Task 3.pdb
